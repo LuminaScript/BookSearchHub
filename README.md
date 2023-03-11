@@ -1,5 +1,5 @@
-## Distributed System Skeleton ##
-# References: (Udemy)Distributed Systems & Cloud Computing with Java
+# Distributed System Skeleton 
+### References: (Udemy)Distributed Systems & Cloud Computing with Java
 
 This is a trial implementation with Java for building the basic distributed system skeleton.
 
